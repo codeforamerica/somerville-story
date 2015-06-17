@@ -1,17 +1,17 @@
 /*background image */
 
-		.bk-photo{
-			background: url(assets/photos/snow-day.jpg) no-repeat center center fixed;
-			width: 100%;
-			display: table;
-			margin: 0;
-			background-color: #373B44;
-			height: 85vh;
-		}
+.bk-photo{
+	background: url(assets/photos/snow-day.jpg) no-repeat center center fixed;
+	width: 100%;
+	display: table;
+	margin: 0;
+	background-color: #373B44;
+	height: 85vh;
+}
 
-		.layout-semibreve{
-			padding-top: 0 !important;
-		}
+.layout-semibreve{
+	padding-top: 0 !important;
+}
 
 /*type*/
 
