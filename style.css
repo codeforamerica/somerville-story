@@ -82,3 +82,27 @@ figcaption {
 	color:#999;
 }
 
+.goals{
+	background-color: #399fd3;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	padding: 20px;
+	margin-top: 35px;
+}
+
+.goals h3{
+	color: #fff;
+	padding: 0;
+	margin: 0;
+	line-height: 1.75rem;
+}
+
+
+
+
+
+
+
+
+
